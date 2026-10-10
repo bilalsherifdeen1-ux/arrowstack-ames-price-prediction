@@ -1,0 +1,4 @@
+# Observed in the Google Colab runtime on 2026-10-10 (Python 3.13.16)
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy==2.1.3
